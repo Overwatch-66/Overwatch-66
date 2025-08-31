@@ -1,8 +1,12 @@
 # 🔐 Cybersecurity Log – Placida  
 
+```bash
 Bienvenue sur mon espace GitHub.  
+
 Ici, je partage mes projets et expérimentations en cybersécurité, avec une approche orientée **architecture, audit et cloud security**.  
-Mon objectif : documenter mes apprentissages et construire un portfolio pratique et concret.  
+
+**Mon objectif** : documenter mes apprentissages et construire un portfolio pratique et concret.  
+```
 
 <!--
 ## Hi there 👋

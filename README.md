@@ -3,9 +3,9 @@
 ```bash
 Bienvenue sur mon espace GitHub.  
 
-Ici, je partage mes projets et expérimentations en cybersécurité, avec une approche orientée **architecture, audit et cloud security**.  
+Ici, je partage mes projets et expérimentations en cybersécurité, avec une approche orientée architecture SI, audit et mise en pratique d’outils de sécurité..  
 
-**Mon objectif** : documenter mes apprentissages et construire un portfolio pratique et concret.  
+Mon objectif : documenter mes apprentissages et construire un portfolio pratique et concret.  
 ```
 
 <!--

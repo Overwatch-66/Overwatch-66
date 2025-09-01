@@ -32,7 +32,7 @@ Status: LOOKING FOR INTERNSHIP
 
 >> Running reconnaissance...
    Identity     : Placida Allokpenoudji
-   Formation    : Master 1 Fiabilité & Sécurité Informatique – Aix-Marseille Université
+   Formation    : Master 2 Fiabilité & Sécurité Informatique – Aix-Marseille Université
    Experience   : Architecte Sécurité (audits SI, IAM, ISO 27001, cloud)
    Objective    : Build strong expertise in security architecture & consulting
 
